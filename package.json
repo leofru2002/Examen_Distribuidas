@@ -1,0 +1,12 @@
+{
+  "name": "aws-landacrud-node",
+  "version": "1.0.0",
+  "description": "AWS Lambda CRUD Node.js",
+  "main": "index.js",
+  "author": "LEONARDO",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "uuid": "^11.0.3"
+  }
+}
